@@ -12,5 +12,7 @@ Společně s Robertem Kahnem se podílel na vytvoření protokolů **TCP/IP**, k
 * je jedním z tvůrců TCP/IP
 * získal Turingovu cenu
 * je označován za jednoho z otců Internetu
+* <img width="250" height="375" alt="obrazek" src="https://github.com/user-attachments/assets/ec676d57-8e87-4b66-9aac-4431a896a351" />
+
 
 **Zdroj:** [Wikipedia – Vint Cerf](https://cs.wikipedia.org/wiki/Vint_Cerf)
