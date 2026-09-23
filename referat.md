@@ -1,6 +1,5 @@
 # Vint Cerf
-![Vint Cerf](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Vint_Cerf_-_2008.jpg/640px-Vint_Cerf_-_2008.jpg)
-![Vint Cerf](https://upload.wikimedia.org/wikipedia/commons/5/54/Vint_Cerf_-_2008.jpg)
+<img width="250" height="375" alt="obrazek" src="https://github.com/user-attachments/assets/328756f7-d646-4fe2-9bf4-568b07de9c57" />
 
 **Vint Cerf** je americký počítačový vědec, který je považován za jednoho z otců Internetu. Narodil se 23. června 1943 v New Havenu.
 
