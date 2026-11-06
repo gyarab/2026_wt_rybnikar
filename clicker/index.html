@@ -6,6 +6,26 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>clicker</h1>
+    <h2>your count <span id="counter" ></span><h2>
+    <button onclick="addCnt();"> Click me</button>
+    <button onclick="resetCnt();">reset</button>
 </body>
+<script>
+    var count = 0;
+    function updateCnt(){
+        const el = document.getElementById("counter")
+        el.innerHTML = count
+    }
+    updateCnt();
+    function addCnt(){
+        count++;
+        updateCnt();
+    }
+    function resetCnt(){
+        console.log(count);
+        count = 0;
+        updateCnt();
+    }
+</script>
 </html>
