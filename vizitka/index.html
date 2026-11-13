@@ -1,50 +1,75 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="cs">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Vizitka</title>
     <style>
-        h1{
+        body {
+            background-color: lightgray;
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+        }
+        h1 {
             margin-top: 0;
         }
-        .wrapper{
-            width: 100vh;
+        .wrapper {
+            width: 100vw;
             height: 100vh;
-            position: relative;
             display: flex;
+            align-items: center;
+            justify-content: center;
         }
-        .vizitka{
-            border: 1px solid rgb(255, 8, 8);
+        .vizitka {
+            background-color: beige;
             width: 300px;
-            background-color: rgb(34, 92, 143);
             border-radius: 10px;
             padding: 20px;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            margin-left: -50%;
-            margin-top: -50%;
         }
-        .img-fluid{
-            width: 50px;
+        .profile-img {
+            width: 80px; 
+            height: auto;
             vertical-align: middle;
+            border-radius: 5px;
+            display: block;
+            margin-bottom: 10px;
+        }
+        .ovladani {
+            margin-bottom: 15px;
+            font-size: 14px;
+        }
+        button {
+            padding: 15px 30px;
+            color: azure;
+            border-radius: 5px;
+            border: 0;
+            background: linear-gradient(45deg, blue, red);
+            cursor: pointer;
         }
     </style>
 </head>
 <body>
     <div class="wrapper">
         <div class="vizitka">
-    <h1>Milos Zeman</h1>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUkp21Yaea6MhW3P3RRb7cX51zutAjAbC36cOvLGbrg&s=10" class="img-fluid" alt="Miloš">
-    <p>Miloš Zeman (* 28. září 1944 Kolín) je český politik, ekonom a prognostik, v období 1996–1998 předseda Poslanecké sněmovny Parlamentu ČR, v letech 1998–2002 předseda vlády České republiky a mezi roky 2013 a 2023 třetí prezident České republiky.</p>
-<h3>co mam rad</h3>
-<ol>
-    <li>becherovka</li>
-    <li>slivovice</li>
-    <li>vodka</li>
-</ol>
-    <button onclick="alert('mam rad alkohol')">klikni</button>
+            <h1>Miloš Zeman</h1>
+            
+            <img id="obrazek" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUkp21Yaea6MhW3P3RRb7cX51zutAjAbC36cOvLGbrg&s=10" class="profile-img" alt="Miloš">
+            
+
+            <p>Miloš Zeman (* 28. září 1944 Kolín) je český politik, ekonom a prognostik, v období 1996–1998 předseda Poslanecké sněmovny Parlamentu ČR, v letech 1998–2002 předseda vlády České republiky a mezi roky 2013 a 2023 třetí prezident České republiky.</p>
+            
+            <h3>Co mám rád</h3>
+            <ol>
+                <li>becherovka</li>
+                <li>slivovice</li>
+                <li>vodka</li>
+            </ol>
+            
+            <button onclick="alert('mam rad alkohol')">klikni</button>
+        </div>
+    </div> 
+    <script>
+    </script>
 </body>
-   
 </html>
