@@ -12,3 +12,4 @@ Logo společnosti Lidl využívá tři hlavní barvy – modrou, žlutou a červ
 - **Červená** představuje dynamiku, energii a naléhavost. Pomáhá logu vyniknout a působí výrazně.
 
 Podle mého názoru je kombinace těchto barev velmi účinná. Modrá vytváří dojem důvěry, zatímco žlutá a červená přitahují pozornost. Logo je díky tomu dobře rozpoznatelné a zapamatovatelné. Barvy zároveň podporují image Lidlu jako dostupného a energického obchodního řetězce.
+   
